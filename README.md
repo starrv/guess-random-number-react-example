@@ -1,2 +1,2 @@
-# guess-random-number-react-example
+# Guess Random Number Example
 ## Asynchronous communication, React, useState, useEffect
