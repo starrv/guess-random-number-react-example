@@ -1,3 +1,3 @@
 # Guess Random Number Example
 
-Guess the random number
+A React web application where you have to guess the randomly generated number within a determined time limit.  
